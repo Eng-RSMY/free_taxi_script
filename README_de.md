@@ -6,7 +6,7 @@
 
 # Die beste Lösung für Ihr Taxiunternehmen online!
 
-Version = 0.0.2 <br />
+Version = 0.0.3 <br />
 Bibliotheksname = free_taxi_script <br />
 Titel = Free TAXI script <br />
 Schlüsselwörter = Free,  Taxi,  Script,  Reactjs,  Django,  Node,  Nextjs,  Python,  App <br />
@@ -14,7 +14,7 @@ Schlüsselwörter = Free,  Taxi,  Script,  Reactjs,  Django,  Node,  Nextjs,  Py
 ### Heiß zu installieren
 
 ```sh
-pip3 install free_taxi_script==0.0.2
+pip3 install free_taxi_script==0.0.3
 ```
 
 

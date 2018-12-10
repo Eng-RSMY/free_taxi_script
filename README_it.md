@@ -6,7 +6,7 @@
 
 # La migliore soluzione per la tua attività di taxi online!
 
-Versione = 0.0.2 <br />
+Versione = 0.0.3 <br />
 Nome libreria = free_taxi_script <br />
 Titolo = Free TAXI script <br />
 Parole chiave = Free,  Taxi,  Script,  Reactjs,  Django,  Node,  Nextjs,  Python,  App <br />
@@ -14,7 +14,7 @@ Parole chiave = Free,  Taxi,  Script,  Reactjs,  Django,  Node,  Nextjs,  Python
 ### Caldo da installare
 
 ```sh
-pip3 install free_taxi_script==0.0.2
+pip3 install free_taxi_script==0.0.3
 ```
 
 
